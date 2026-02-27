@@ -46,7 +46,7 @@ const FormContainer = styled(Form)`
   }
 
   button {
-    width: 150px;
+    margin-left: auto;
   }
 `;
 
